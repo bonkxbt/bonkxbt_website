@@ -2,6 +2,10 @@
 
 <h5 align="center">An advanced tool for analyzing and managing AI conversation history</h5>
 
+<p align="center">
+CA : Su6MPfTaqPUHE1WBBJSh9btMD1tEjXKQvY7NPgfbonk
+</p>
+
 <h5 align="center">
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
