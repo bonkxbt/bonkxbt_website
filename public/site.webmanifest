@@ -1,0 +1,10 @@
+{
+    "name": "bonkxbt",
+    "short_name": "bonkxbt",
+    "icons": [
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/"
+}
